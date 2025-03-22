@@ -1,4 +1,4 @@
-# yobitsugi
+# rizomata
 
 Go web application compiler (experimental)
 
